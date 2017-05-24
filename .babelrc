@@ -1,0 +1,9 @@
+// this file is to configure babel
+
+
+
+{
+  "presets":[
+    "es2015","react"
+  ]
+}
